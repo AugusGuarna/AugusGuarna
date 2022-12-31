@@ -1,6 +1,6 @@
-👋 Hi, I’m @AugusGuarna
-Licenciatura en Ciencias de Datos 
-Buenos Aires
+👋 Hi  
+Licenciatura en Ciencias de Datos undegraduate  
+Based in Buenos Aires, Argentina 
 
 <!---
 AugusGuarna/AugusGuarna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
