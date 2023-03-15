@@ -1,4 +1,4 @@
-👋 *Hi!*  
+👋 **Hi!**  
 Licenciatura en Ciencias de Datos undegraduate  
 Based in Buenos Aires, Argentina 
 
